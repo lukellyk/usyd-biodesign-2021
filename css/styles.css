@@ -41,6 +41,7 @@ body,html {
     border-radius: 25px; /* round corners to provide a softer, cleaner and less harsh look */
     padding: 20px 50px 20px 50px;
     width: auto;
+    margin-bottom: 50px;
 }
 
 /* the font 'P22 Mackinac Pro' was chosen due to it being effective as a title font when bolded but also remaining completely legible for body text */
