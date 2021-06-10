@@ -1,6 +1,6 @@
 # Biodesign at the University of Sydney 2021
 
-https://user-images.githubusercontent.com/12542270/119746648-4252d100-bed4-11eb-9fb9-244b408f47da.mp4
+https://user-images.githubusercontent.com/12542270/121448741-9e8d1900-c9db-11eb-802f-8dcf166975af.mp4
 
 ## What is it?
 A mycelium-grown smart insole containing electronic microprocessors to monitor foot health and encourage sensory awareness. The MyHeel smart insoles can be grown at home and allow wearers to monitor their foot health via a personalised web application. With these ethically grown smart insoles, wearers can also engage in interactive foot exercises that visualise movement via bespoke biofeedback technology.
